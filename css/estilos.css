@@ -1,0 +1,28 @@
+body{
+  background-image: linear-gradient(palegreen, limegreen ,darkgreen);
+  background-attachment: fixed;
+  font-family: "Helvetica";
+}
+.juego{
+  text-align: center;
+  padding: 2px;
+  border: 15px red;
+  border-style: ridge;
+}
+h1{
+  color: blue;
+  margin: auto;
+  margin-top: 5px;
+}
+canvas{
+  margin: 5px;
+  border-radius: 10px;
+  border: 2px solid greenyellow;
+}
+p{
+  font-size: 1.1em;
+  margin: auto;
+}
+p:last-of-type{
+  margin-bottom: 5px
+}
